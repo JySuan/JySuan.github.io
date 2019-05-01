@@ -1,2 +1,2 @@
 # JySuan.github.io
-It's just JySuan
+It's just JySuan.
